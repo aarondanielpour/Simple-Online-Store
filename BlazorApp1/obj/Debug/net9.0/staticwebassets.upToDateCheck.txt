@@ -1,0 +1,2 @@
+wwwroot\app.css
+C:\Users\aaron\source\Simple-Online-Store\BlazorApp1\wwwroot\app.css

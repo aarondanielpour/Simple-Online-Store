@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Simple_Online_Store/1.0.0": {
+        "runtime": {
+          "Simple_Online_Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple_Online_Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
